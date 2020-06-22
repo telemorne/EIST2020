@@ -1,6 +1,8 @@
-package engine.objects;
+package game.gameobjects;
 
 import engine.Controls;
+import engine.collision.RectangleCollider;
+import engine.objects.GameObject;
 import game.Properties;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.image.Image;

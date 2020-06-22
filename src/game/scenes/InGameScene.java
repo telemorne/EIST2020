@@ -1,9 +1,7 @@
 package game.scenes;
 
 import engine.GameScene;
-import engine.objects.Enemy;
-import engine.objects.PlayerShip;
-import javafx.scene.image.Image;
+import game.gameobjects.PlayerShip;
 
 public class InGameScene extends GameScene {
     @Override

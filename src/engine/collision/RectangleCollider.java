@@ -1,4 +1,4 @@
-package engine.objects;
+package engine.collision;
 
 public class RectangleCollider {
     private int x, y, width, height;

@@ -1,5 +1,6 @@
 package engine.objects;
 
+import engine.collision.RectangleCollider;
 import javafx.scene.canvas.GraphicsContext;
 
 import java.util.ArrayList;

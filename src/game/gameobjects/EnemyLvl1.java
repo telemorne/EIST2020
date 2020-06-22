@@ -1,5 +1,6 @@
-package engine.objects;
+package game.gameobjects;
 
+import engine.objects.GameObject;
 import javafx.scene.image.Image;
 
 public class EnemyLvl1 extends Enemy {

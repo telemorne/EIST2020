@@ -1,5 +1,6 @@
-package engine.objects;
+package game.gameobjects;
 
+import engine.objects.GameObject;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.image.Image;
 
